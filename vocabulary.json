@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "word": "challenge",
+    "level": "B1"
+  },
+  {
+    "id": 2,
+    "word": "achievement",
+    "level": "B2"
+  },
+  {
+    "id": 3,
+    "word": "curiosity",
+    "level": "A2"
+  }
+]

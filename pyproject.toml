@@ -1,0 +1,21 @@
+[project]
+
+name = "llm-teachereval"
+
+version = "0.1.0"
+
+description = "LLM benchmark for English education"
+
+authors = [
+    {name="Viktoriia Sakharova"}
+]
+
+requires-python = ">=3.12"
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "PyYAML",
+    "rich"
+]

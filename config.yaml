@@ -1,0 +1,27 @@
+project:
+
+  name: LLM TeacherEval
+
+  version: 0.1.0
+
+benchmark:
+
+  models:
+
+    - ChatGPT
+    - Claude
+    - Gemini
+    - DeepSeek
+    - Qwen
+
+evaluation:
+
+  accuracy: true
+
+  pedagogy: true
+
+  hallucination: true
+
+  safety: true
+
+  bias: true

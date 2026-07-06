@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "language":"Russian",
+    "task":"Translate while preserving meaning."
+  },
+  {
+    "id":2,
+    "language":"Chinese",
+    "task":"Translate educational instructions."
+  }
+]

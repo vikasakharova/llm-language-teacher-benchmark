@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "level": "A2",
+    "task": "Explain Present Perfect vs Past Simple",
+    "expected": "Clear explanation with examples."
+  },
+  {
+    "id": 2,
+    "level": "B1",
+    "task": "Explain Future Continuous",
+    "expected": "Simple explanation with practical examples."
+  },
+  {
+    "id": 3,
+    "level": "B2",
+    "task": "Explain Passive Voice",
+    "expected": "Grammar explanation with exercises."
+  }
+]
